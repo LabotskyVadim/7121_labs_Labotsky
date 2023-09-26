@@ -1,0 +1,7 @@
+ copy con readme.mn
+git add readme.mn
+copy con .gitignore
+copy con .gitignore
+copy con .gitignore
+git commit -m "HomeWorck"
+git status
